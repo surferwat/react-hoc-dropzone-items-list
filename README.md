@@ -16,7 +16,12 @@ Step 2: Install the dependecies
 npm install
 ```
 
-Step 3: Go to app folder and install the module
+Step 3: Build 
+```
+npm run-script build:clean
+```
+
+Step 4: Go to app folder and install the module
 
 ```
 npm install /file/path/to/module
