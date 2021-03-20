@@ -13,6 +13,7 @@ git clone https://github.com/surferwat/react-hoc-dropzone-items-list.git
 Step 2: Install the dependecies
 
 ```
+cd <package_name>
 npm install
 ```
 
